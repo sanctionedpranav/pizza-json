@@ -1,0 +1,516 @@
+{
+  "Vegetarian": [
+    {
+      "id": 10,
+      "name": "Vegan Veggie",
+      "price": "23.95",
+      "menu_description": "Herbed onion and Green Capsicum, juicy Sweet Corn & Mozzarella cheese with flavourful pan sauce.",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://assets.zumepizza.com/public/j4lb8iry.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/veggie-supreme.4bbddf98eccea9929192db1494ba3678.1.jpg?width=300"
+          }
+        ]
+      },
+      "toppings": [
+        {
+          "id": 50,
+          "name": "Baby Bell Peppers",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/7650vx0h.png"
+          }
+        },
+        {
+          "id": 6,
+          "name": "Basil",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/9pb5d2k4.png"
+          }
+        },
+        {
+          "id": 110,
+          "name": "Daiya Vegan Mozzarella",
+          "description": "FILTERED WATER, TAPIOCA FLOUR, EXPELLER PRESSED NON-GMO CANOLA AND/OR SAFFLOWER OIL, COCONUT OIL, PEA PROTEIN, SALT, VEGAN NATURAL FLAVOURS, INACTIVE YEAST, VEGETABLE GLYCERIN, XANTHAN GUM, CITRIC ACID, TITANIUM DIOXIDE",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/oo9dpuia.png"
+          }
+        },
+        {
+          "id": 74,
+          "name": "Kalamata Olives",
+          "description": "KALAMATA OLIVES, WATER, SEA SALT, SUNFLOWER OIL",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/ezuum3ch.png"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Oregano",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/1dlixxge.png"
+          }
+        },
+        {
+          "id": 75,
+          "name": "Red Onions",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/j8cy3gh3.png"
+          }
+        },
+        {
+          "id": 26,
+          "name": "Roasted Garlic",
+          "description": "PEELED GARLIC, CANOLA OIL",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/s4o6jsl6.png"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Tomato Sauce",
+          "description": "VINE-RIPENED TOMATOES, FRESH BASIL LEAF, SALT, CALCIUM CHLORIDE, NATURALLY DERIVED CITRIC ACID, EXTRA VIRGIN OLIVE OIL, SEA SALT",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/3i572qur.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Veggie Zupreme",
+      "price": "19.95",
+      "menu_description": "A supreme combination of Black Olives, Green Capsicum, Mushroom, Onion, spicy Red Paprika & juicy Sweet Corn with flavourful pan sauce and Mozzarella cheese.",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://assets.zumepizza.com/public/nfjqscxz.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/ultimate-tandoori-veggie.90a986d9df5e6d7d81930376e2dce251.1.jpg?width=300"
+          }
+        ]
+      },
+      "toppings": [
+        {
+          "id": 121,
+          "name": "Asiago",
+          "description": "CULTURED MILK, ENZYMES, SALT",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/gnhvc83u.png"
+          }
+        },
+        {
+          "id": 50,
+          "name": "Baby Bell Peppers",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/7650vx0h.png"
+          }
+        },
+        {
+          "id": 33,
+          "name": "Basil Chiffonade",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/bs4fw4um.png"
+          }
+        },
+        {
+          "id": 74,
+          "name": "Kalamata Olives",
+          "description": "KALAMATA OLIVES, WATER, SEA SALT, SUNFLOWER OIL",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/ezuum3ch.png"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Mozzarella",
+          "description": "PASTEURIZED MILK, CHEESE CULTURE, SALT, ENZYMES",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/rv3erpfq.png"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Oregano",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/1dlixxge.png"
+          }
+        },
+        {
+          "id": 75,
+          "name": "Red Onions",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/j8cy3gh3.png"
+          }
+        },
+        {
+          "id": 26,
+          "name": "Roasted Garlic",
+          "description": "PEELED GARLIC, CANOLA OIL",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/s4o6jsl6.png"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Tomato Sauce",
+          "description": "VINE-RIPENED TOMATOES, FRESH BASIL LEAF, SALT, CALCIUM CHLORIDE, NATURALLY DERIVED CITRIC ACID, EXTRA VIRGIN OLIVE OIL, SEA SALT",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/3i572qur.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "The O.G.",
+      "price": "16.95",
+      "menu_description": "An ultimate combination of your favourite veggies- onion, green capsicum, mushroom, tomato, spicy jalapeno on tandoori sauce, topped with mozzarella cheese & generous drizzle of mint mayo.",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://assets.zumepizza.com/public/u9uqpymh.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://img.freepik.com/free-photo/top-view-pepperoni-pizza-with-mushroom-sausages-bell-pepper-olive-corn-black-wooden_141793-2158.jpg?w=2000"
+          }
+        ]
+      },
+      "toppings": [
+        {
+          "id": 6,
+          "name": "Basil",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/9pb5d2k4.png"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Mozzarella",
+          "description": "PASTEURIZED MILK, CHEESE CULTURE, SALT, ENZYMES",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/rv3erpfq.png"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Oregano",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/1dlixxge.png"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Tomato Sauce",
+          "description": "VINE-RIPENED TOMATOES, FRESH BASIL LEAF, SALT, CALCIUM CHLORIDE, NATURALLY DERIVED CITRIC ACID, EXTRA VIRGIN OLIVE OIL, SEA SALT",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/3i572qur.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Momo Mia Pizza-Veg",
+      "price": "22.95",
+      "menu_description": "A supreme combination of Black Olives, Green Capsicum, Mushroom, Onion, spicy Red Paprika & juicy Sweet Corn with flavourful pan sauce and mozzarella cheese.",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://assets.zumepizza.com/public/u9uqpymh.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/veggie-supreme.4bbddf98eccea9929192db1494ba3678.1.jpg?width=300"
+          }
+        ]
+      },
+      "toppings": [
+        {
+          "id": 6,
+          "name": "Basil",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/9pb5d2k4.png"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Mozzarella",
+          "description": "PASTEURIZED MILK, CHEESE CULTURE, SALT, ENZYMES",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/rv3erpfq.png"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Oregano",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/1dlixxge.png"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Tomato Sauce",
+          "description": "VINE-RIPENED TOMATOES, FRESH BASIL LEAF, SALT, CALCIUM CHLORIDE, NATURALLY DERIVED CITRIC ACID, EXTRA VIRGIN OLIVE OIL, SEA SALT",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/3i572qur.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Schezwan Margherita",
+      "price": "22.95",
+      "menu_description": "Our signature pan sauce, with BBQ Sauce drizzle, topped with mushroom, onion, green capsicum, & red paprika",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://assets.zumepizza.com/public/u9uqpymh.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/mexican-fiesta.cd946a57e6c57c80adb6380aaf9bb7cb.1.jpg?width=300"
+          }
+        ]
+      },
+      "toppings": [
+        {
+          "id": 6,
+          "name": "Basil",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/9pb5d2k4.png"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Mozzarella",
+          "description": "PASTEURIZED MILK, CHEESE CULTURE, SALT, ENZYMES",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/rv3erpfq.png"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Oregano",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/1dlixxge.png"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Tomato Sauce",
+          "description": "VINE-RIPENED TOMATOES, FRESH BASIL LEAF, SALT, CALCIUM CHLORIDE, NATURALLY DERIVED CITRIC ACID, EXTRA VIRGIN OLIVE OIL, SEA SALT",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/3i572qur.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Mazedar Makhni Paneer",
+      "price": "12.95",
+      "menu_description": "Flavourful mix of red capsicum, green capsicum, jalapeno, onion, black olives, sweet corn and mozzarella cheese with a signature spice sprinkle & our flavourful pan sauce.",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://assets.zumepizza.com/public/u9uqpymh.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/country-feast.b6a79c6cc0c7aa3aa46c50ad91c64f2e.1.jpg?width=300"
+          }
+        ]
+      },
+      "toppings": [
+        {
+          "id": 6,
+          "name": "Basil",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/9pb5d2k4.png"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Mozzarella",
+          "description": "PASTEURIZED MILK, CHEESE CULTURE, SALT, ENZYMES",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/rv3erpfq.png"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Oregano",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/1dlixxge.png"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Tomato Sauce",
+          "description": "VINE-RIPENED TOMATOES, FRESH BASIL LEAF, SALT, CALCIUM CHLORIDE, NATURALLY DERIVED CITRIC ACID, EXTRA VIRGIN OLIVE OIL, SEA SALT",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/3i572qur.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Ultimate Tandoori Veggie",
+      "price": "18.95",
+      "menu_description": "It's our signature. Spiced Paneer, Crunchy Onions & Green Capsicum, spicy Red Paprika with delicious Tandoori Sauce and Mozzarella cheese!",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://assets.zumepizza.com/public/u9uqpymh.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/bold-bbq-veggies.ee6fab76c8e9eabf6105638916044712.1.jpg?width=300"
+          }
+        ]
+      },
+      "toppings": [
+        {
+          "id": 6,
+          "name": "Basil",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/9pb5d2k4.png"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Mozzarella",
+          "description": "PASTEURIZED MILK, CHEESE CULTURE, SALT, ENZYMES",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/rv3erpfq.png"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Oregano",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/1dlixxge.png"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Tomato Sauce",
+          "description": "VINE-RIPENED TOMATOES, FRESH BASIL LEAF, SALT, CALCIUM CHLORIDE, NATURALLY DERIVED CITRIC ACID, EXTRA VIRGIN OLIVE OIL, SEA SALT",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/3i572qur.png"
+          }
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Mexican Fiesta",
+      "price": "18.95",
+      "menu_description": "Loaded with Herbed Onion & Green capsicum, Sweet Corn, Tomato with signature pan sauce and Mozzarella cheese. It's a feast you can't refuse.",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://assets.zumepizza.com/public/u9uqpymh.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/pizza/country-feast.b6a79c6cc0c7aa3aa46c50ad91c64f2e.1.jpg?width=300"
+          }
+        ]
+      },
+      "toppings": [
+        {
+          "id": 6,
+          "name": "Basil",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/9pb5d2k4.png"
+          }
+        },
+        {
+          "id": 5,
+          "name": "Mozzarella",
+          "description": "PASTEURIZED MILK, CHEESE CULTURE, SALT, ENZYMES",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/rv3erpfq.png"
+          }
+        },
+        {
+          "id": 2,
+          "name": "Oregano",
+          "description": null,
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/1dlixxge.png"
+          }
+        },
+        {
+          "id": 1,
+          "name": "Tomato Sauce",
+          "description": "VINE-RIPENED TOMATOES, FRESH BASIL LEAF, SALT, CALCIUM CHLORIDE, NATURALLY DERIVED CITRIC ACID, EXTRA VIRGIN OLIVE OIL, SEA SALT",
+          "asset": {
+            "url": "https://assets.zumepizza.com/public/3i572qur.png"
+          }
+        }
+      ]
+    }
+  ]
+}
