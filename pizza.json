@@ -513,46 +513,34 @@
       ]
     }
   ],
-   "Drinks": [
+  "Drinks": [
     {
       "id": 201,
-      "name": "Lemon Mint Mojito",
-      "price": "99",
+      "name": "Coca Cola",
+      "price": "2.99",
       "menu_description": "Chilled fizzy Coca Cola.",
       "classifications": {
         "vegetarian": true
       },
       "assets": {
-        "menu": [
-          {
-            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/masala-pop-350ml.5952bd96b12f5f6125cb46efd54bf71a.1.jpg?width=300"
-          }
-        ],
+        "menu": [{ "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/pepsi-glass-350ml.3fc9eb4e695670c4d7a426270f8d1726.1.jpg?width=300" }],
         "product_details_page": [
-          {
-            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/lemon-mint-mojito-350ml.8acf13a92e859849f9a0fa2ee7cafa8c.1.jpg?width=300"
-          }
+          { "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/pepsi-glass-350ml.3fc9eb4e695670c4d7a426270f8d1726.1.jpg?width=300" }
         ]
       }
     },
     {
       "id": 202,
-      "name": "Masala Pop",
-      "price": "99",
+      "name": "Fresh Lemonade",
+      "price": "3.99",
       "menu_description": "Refreshing fresh-made lemonade.",
       "classifications": {
         "vegetarian": true
       },
       "assets": {
-        "menu": [
-          {
-            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/masala-pop-350ml.5952bd96b12f5f6125cb46efd54bf71a.1.jpg?width=300"
-          }
-        ],
+        "menu": [{ "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/lemon-mint-mojito-350ml.8acf13a92e859849f9a0fa2ee7cafa8c.1.jpg?width=300" }],
         "product_details_page": [
-          {
-            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/masala-pop-350ml.5952bd96b12f5f6125cb46efd54bf71a.1.jpg?width=300"
-          }
+          { "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/lemon-mint-mojito-350ml.8acf13a92e859849f9a0fa2ee7cafa8c.1.jpg?width=300" }
         ]
       }
     }
@@ -561,25 +549,18 @@
   "Desserts": [
     {
       "id": 301,
-      "name": "Brow-wow-nie",
+      "name": "Chocolate Lava Cake",
       "price": "5.49",
-      "menu_description": "A divine choco brownie for your all time chocolate cravings",
+      "menu_description": "Warm gooey chocolate lava cake.",
       "classifications": {
         "vegetarian": true
       },
       "assets": {
-        "menu": [
-          {
-            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/brow-wow-nie-single.af07c0805f1b335d9a66c9f906c355ec.1.jpg?width=300.jpg"
-          }
-        ],
+        "menu": [{ "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/choco-volcano-single.082a06da74a93656298b844bc12db7ce.1.jpg?width=300" }],
         "product_details_page": [
-          {
-            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/brow-wow-nie-single.af07c0805f1b335d9a66c9f906c355ec.1.jpg?width=300"
-          }
+          { "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/choco-volcano-single.082a06da74a93656298b844bc12db7ce.1.jpg?width=300" }
         ]
       }
     }
   ]
 }
-
