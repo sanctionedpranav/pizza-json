@@ -512,5 +512,74 @@
         }
       ]
     }
+  ],
+   "Drinks": [
+    {
+      "id": 201,
+      "name": "Lemon Mint Mojito",
+      "price": "99",
+      "menu_description": "Chilled fizzy Coca Cola.",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/masala-pop-350ml.5952bd96b12f5f6125cb46efd54bf71a.1.jpg?width=300"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/lemon-mint-mojito-350ml.8acf13a92e859849f9a0fa2ee7cafa8c.1.jpg?width=300"
+          }
+        ]
+      }
+    },
+    {
+      "id": 202,
+      "name": "Masala Pop",
+      "price": "99",
+      "menu_description": "Refreshing fresh-made lemonade.",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/masala-pop-350ml.5952bd96b12f5f6125cb46efd54bf71a.1.jpg?width=300"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/drink/masala-pop-350ml.5952bd96b12f5f6125cb46efd54bf71a.1.jpg?width=300"
+          }
+        ]
+      }
+    }
+  ],
+
+  "Desserts": [
+    {
+      "id": 301,
+      "name": "Brow-wow-nie",
+      "price": "5.49",
+      "menu_description": "A divine choco brownie for your all time chocolate cravings",
+      "classifications": {
+        "vegetarian": true
+      },
+      "assets": {
+        "menu": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/brow-wow-nie-single.af07c0805f1b335d9a66c9f906c355ec.1.jpg?width=300.jpg"
+          }
+        ],
+        "product_details_page": [
+          {
+            "url": "https://api.pizzahut.io/v1/content/en-in/in-1/images/dessert/brow-wow-nie-single.af07c0805f1b335d9a66c9f906c355ec.1.jpg?width=300"
+          }
+        ]
+      }
+    }
   ]
 }
+
